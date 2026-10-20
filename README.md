@@ -47,8 +47,6 @@ Sistema de gerenciamento para comunidades de roleplay, com recursos de organiza�
 - Sistemas de ações, farm e relatórios.
 - Rankings, logs e ferramentas administrativas.
 
-> Adicione aqui o link do repositório do SYNTRIX Manager quando estiver publicado.
-
 ### Bots e automações
 Projetos focados na integração entre serviços, notificações automáticas, Webhooks e redução de tarefas repetitivas.
 
