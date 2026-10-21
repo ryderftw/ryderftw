@@ -51,7 +51,7 @@ Sistema de gerenciamento para comunidades de roleplay, com recursos de organiza�
 Projetos focados na integração entre serviços, notificações automáticas, Webhooks e redução de tarefas repetitivas.
 
 ### FiveM
-Projetos relacionados à personalização de veículos, organização de recursos e desenvolvimento para servidores de roleplay.
+Projetos relacionados na organização de recursos e desenvolvimento para servidores de roleplay.
 
 ## 🎯 Objetivos
 
